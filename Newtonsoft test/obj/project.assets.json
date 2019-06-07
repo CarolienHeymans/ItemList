@@ -733,11 +733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carolien\\source\\repos\\Newtonsoft test\\Newtonsoft test\\Newtonsoft test.csproj",
+      "projectUniqueName": "C:\\Users\\Carolien\\Documents\\GitLab\\newtonsofttest\\Newtonsoft test\\Newtonsoft test.csproj",
       "projectName": "Newtonsoft test",
-      "projectPath": "C:\\Users\\Carolien\\source\\repos\\Newtonsoft test\\Newtonsoft test\\Newtonsoft test.csproj",
+      "projectPath": "C:\\Users\\Carolien\\Documents\\GitLab\\newtonsofttest\\Newtonsoft test\\Newtonsoft test.csproj",
       "packagesPath": "C:\\Users\\Carolien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carolien\\source\\repos\\Newtonsoft test\\Newtonsoft test\\obj\\",
+      "outputPath": "C:\\Users\\Carolien\\Documents\\GitLab\\newtonsofttest\\Newtonsoft test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
