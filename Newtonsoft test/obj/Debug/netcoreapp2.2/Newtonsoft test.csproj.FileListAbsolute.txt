@@ -20,3 +20,14 @@ C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\obj\Debug\netc
 C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.AssemblyInfo.cs
 C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.dll
 C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.pdb
+C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.csprojAssemblyReference.cache
+C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.csproj.CoreCompileInputs.cache
+C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.AssemblyInfoInputs.cache
+C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.AssemblyInfo.cs
+C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.dll
+C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.pdb
+C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.deps.json
+C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.runtimeconfig.json
+C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.runtimeconfig.dev.json
+C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.dll
+C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.pdb

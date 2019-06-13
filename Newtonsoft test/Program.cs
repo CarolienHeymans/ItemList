@@ -1,43 +1,39 @@
 ﻿using System;
+using System.Collections.Generic;
 using Newtonsoft.Json;
 
 
 namespace Newtonsoft_test
 {
-    public class Product
-        //make a class that has a name and a price
+    public class Item
     {
-        public string Name;
-               public int Price; 
-        public Product(string name, int price)
-        {
-            Name = name;
-            Price = price;
-        }
 
-        }
-     
-    class Program
+        public string Name { get; set; }
+
+    }
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Product product1 = new Product("a", 1);
+        List<Item> items = new List<Item>();
+            while (true)
+            {
+                Console.WriteLine("Add an item or press q to exit");
+                
+                string answer = Console.ReadLine();
+                  if (answer == "q") {
+                    break;
+                }
 
-            product1.Name = "Apple";
-          
-            product1.Price = 2;
-
-            Product product2 = new Product("a", 1);
-            product2.Name = "Pear";
-
-            product2.Price = 3;
-                       
-            string output1 = JsonConvert.SerializeObject(product1);
-            string output2 = JsonConvert.SerializeObject(product2);
-
-            Console.WriteLine(output1);
-            Console.WriteLine(output2);
+                items.Add(new Item { Name = answer });
+                foreach (var item in items)
+                {
+                    Console.WriteLine(" Name {0}", item.Name);
+                }
+              
+            }
 
         }
     }
+          
 }

@@ -727,26 +727,23 @@
   },
   "packageFolders": {
     "C:\\Users\\Carolien\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carolien\\Documents\\GitLab\\newtonsofttest\\Newtonsoft test\\Newtonsoft test.csproj",
+      "projectUniqueName": "C:\\Users\\Carolien\\source\\repos\\newtonsofttest\\Newtonsoft test\\Newtonsoft test.csproj",
       "projectName": "Newtonsoft test",
-      "projectPath": "C:\\Users\\Carolien\\Documents\\GitLab\\newtonsofttest\\Newtonsoft test\\Newtonsoft test.csproj",
+      "projectPath": "C:\\Users\\Carolien\\source\\repos\\newtonsofttest\\Newtonsoft test\\Newtonsoft test.csproj",
       "packagesPath": "C:\\Users\\Carolien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carolien\\Documents\\GitLab\\newtonsofttest\\Newtonsoft test\\obj\\",
+      "outputPath": "C:\\Users\\Carolien\\source\\repos\\newtonsofttest\\Newtonsoft test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Carolien\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
