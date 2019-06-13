@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using Newtonsoft.Json;
+using Newtonsoft;
 
 
 namespace Newtonsoft_test
 {
     public class Item
     {
-
+        public int Amount { get; set; }
         public string Name { get; set; }
 
     }
@@ -24,11 +24,14 @@ namespace Newtonsoft_test
                   if (answer == "q") {
                     break;
                 }
-
-                items.Add(new Item { Name = answer });
+                Console.WriteLine("Add amount:");
+                string input = Console.ReadLine();
+                int result = int.Parse(input);
+               
+                items.Add(new Item { Name = answer, Amount= result});
                 foreach (var item in items)
                 {
-                    Console.WriteLine(" Name {0}", item.Name);
+                    Console.WriteLine("- {0}, {1}",item.Name,item.Amount);
                 }
               
             }
