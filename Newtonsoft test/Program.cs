@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Newtonsoft.Json;
 
 namespace Newtonsoft_test
 {
@@ -16,32 +17,36 @@ namespace Newtonsoft_test
             List<Item> items = new List<Item>();
             while (true)
             {
-                Console.WriteLine("Add an item, press v to view list or press q to exit");
+                Console.WriteLine("Add an item or press q to exit");
 
                 string answer = Console.ReadLine();
                 if (answer == "q")
                 {
                     break;
                 }
-
-                else if (answer == "v")
-                {
-                    foreach (var item in items)
-                    {
-                        Console.WriteLine("-- {0}, {1}", item.Name, item.Amount);
-                    }
-                }
                 else
                 {
                     Console.WriteLine("Add amount:");
                     string input = Console.ReadLine();
                     int result = int.Parse(input);
+                    List<Item> listItems = new List<Item> {
+                        new Item { Name = answer, Amount = result}
+                };
+                    //serialization of collection
+                    string collectionResult = JsonConvert.SerializeObject(listItems);
+                    Console.WriteLine(collectionResult);
+               
+                
+                //deserialization of collection
 
-                    items.Add(new Item { Name = answer, Amount = result });
-                    Console.WriteLine("{0}, {1}", answer, result);
-
+                List<Item> NewListItems=JsonConvert.DeserializeObject<List<Item>>(collectionResult);
+                    foreach (var item in NewListItems)
+                    {
+                        Console.WriteLine("Name : " + item.Name + "\tAmount : " + item.Amount);
+                    }
                 }
+               
+            }
             }
         }
     }
-}
