@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using Newtonsoft.Json;
 
 namespace Newtonsoft_test
@@ -14,39 +15,61 @@ namespace Newtonsoft_test
     {
         public static void Main()
         {
-            List<Item> items = new List<Item>();
-            while (true)
+            using (StreamReader sr = new StreamReader(@"\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\food.json"))
             {
-                Console.WriteLine("Add an item or press q to exit");
-
-                string answer = Console.ReadLine();
-                if (answer == "q")
+                var json = sr.ReadToEnd();
+                var itemtest = JsonConvert.DeserializeObject<List<Item>>(json);
+                foreach (var item in itemtest)
                 {
-                    break;
+                    Console.WriteLine("Name : " + item.Name + "\tAmount : " + item.Amount);
                 }
-                else
-                {
-                    Console.WriteLine("Add amount:");
-                    string input = Console.ReadLine();
-                    int result = int.Parse(input);
-                    List<Item> listItems = new List<Item> {
-                        new Item { Name = answer, Amount = result}
+            }
+           //List<Item> items = new List<Item>();
+            /* while (true)
+             {
+                 Console.WriteLine("Add an item or press q to exit");
+
+                 string answer = Console.ReadLine();
+                 if (answer == "q")
+                 {
+                     break;
+                 }
+                 else
+                 {
+                     Console.WriteLine("Add amount:");
+                     string input = Console.ReadLine();
+                     int result = int.Parse(input);
+                     List<Item> listItems = new List<Item> {
+                         new Item { Name = answer, Amount = result}
                 };
-                    //serialization of collection
-                    string collectionResult = JsonConvert.SerializeObject(listItems);
-                    Console.WriteLine(collectionResult);
-               
-                
-                //deserialization of collection
+                   
 
-                List<Item> NewListItems=JsonConvert.DeserializeObject<List<Item>>(collectionResult);
-                    foreach (var item in NewListItems)
+                    using (StreamWriter sw = new StreamWriter(@"\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\food.json"))
                     {
-                        Console.WriteLine("Name : " + item.Name + "\tAmount : " + item.Amount);
-                    }
+                        var collectionResult = JsonConvert.SerializeObject(listItems);
+                    Console.WriteLine(collectionResult);
+                        foreach (var item in collectionResult)
+                        {
+                            sw.WriteLine(item);
+
+                        }
+                    }*/
+                    /* //serialization of collection
+                     string collectionResult = JsonConvert.SerializeObject(listItems);
+                     Console.WriteLine(collectionResult);
+
+
+                 //deserialization of collection
+
+                 List<Item> NewListItems=JsonConvert.DeserializeObject<List<Item>>(collectionResult);
+                     foreach (var item in NewListItems)
+                     {
+                         Console.WriteLine("Name : " + item.Name + "\tAmount : " + item.Amount);
+                     }
                 }
-               
-            }
-            }
+
+             }*/
+             }
         }
     }
+
