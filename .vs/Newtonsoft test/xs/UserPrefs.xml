@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4F22398B-F086-46D7-A839-76779CB1D9BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Newtonsoft test/Program.cs">
+    <Files>
+      <File FileName="Newtonsoft test/Program.cs" Line="13" Column="1" />
+      <File FileName="Newtonsoft test/food.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Newtonsoft test" expanded="True">
+            <Node name="Newtonsoft test" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Newtonsoft_220test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -550,6 +550,7 @@
       "path": "microsoft.netcore.targets/2.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -726,30 +727,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Carolien\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/marijngoossens/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carolien\\source\\repos\\newtonsofttest\\Newtonsoft test\\Newtonsoft test.csproj",
+      "projectUniqueName": "/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/Newtonsoft test.csproj",
       "projectName": "Newtonsoft test",
-      "projectPath": "C:\\Users\\Carolien\\source\\repos\\newtonsofttest\\Newtonsoft test\\Newtonsoft test.csproj",
-      "packagesPath": "C:\\Users\\Carolien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carolien\\source\\repos\\newtonsofttest\\Newtonsoft test\\obj\\",
+      "projectPath": "/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/Newtonsoft test.csproj",
+      "packagesPath": "/Users/marijngoossens/.nuget/packages/",
+      "outputPath": "/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Carolien\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/marijngoossens/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

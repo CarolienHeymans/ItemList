@@ -1,33 +1,44 @@
-C:\Users\Carolien\source\repos\Newtonsoft test\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.deps.json
-C:\Users\Carolien\source\repos\Newtonsoft test\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.runtimeconfig.json
-C:\Users\Carolien\source\repos\Newtonsoft test\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.runtimeconfig.dev.json
-C:\Users\Carolien\source\repos\Newtonsoft test\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.dll
-C:\Users\Carolien\source\repos\Newtonsoft test\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.csprojAssemblyReference.cache
-C:\Users\Carolien\source\repos\Newtonsoft test\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.csproj.CoreCompileInputs.cache
-C:\Users\Carolien\source\repos\Newtonsoft test\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.AssemblyInfoInputs.cache
-C:\Users\Carolien\source\repos\Newtonsoft test\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.AssemblyInfo.cs
-C:\Users\Carolien\source\repos\Newtonsoft test\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.pdb
-C:\Users\Carolien\source\repos\Newtonsoft test\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.dll
-C:\Users\Carolien\source\repos\Newtonsoft test\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.pdb
-C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.deps.json
-C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.runtimeconfig.json
-C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.runtimeconfig.dev.json
-C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.dll
-C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.pdb
-C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.csprojAssemblyReference.cache
-C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.csproj.CoreCompileInputs.cache
-C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.AssemblyInfoInputs.cache
-C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.AssemblyInfo.cs
-C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.dll
-C:\Users\Carolien\Documents\GitLab\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.pdb
-C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.csprojAssemblyReference.cache
-C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.csproj.CoreCompileInputs.cache
-C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.AssemblyInfoInputs.cache
-C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.AssemblyInfo.cs
-C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.dll
-C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\obj\Debug\netcoreapp2.2\Newtonsoft test.pdb
-C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.deps.json
-C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.runtimeconfig.json
-C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.runtimeconfig.dev.json
-C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.dll
-C:\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\bin\Debug\netcoreapp2.2\Newtonsoft test.pdb
+C:/Users/Carolien/source/repos/Newtonsoft test/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.deps.json
+C:/Users/Carolien/source/repos/Newtonsoft test/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.runtimeconfig.json
+C:/Users/Carolien/source/repos/Newtonsoft test/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.runtimeconfig.dev.json
+C:/Users/Carolien/source/repos/Newtonsoft test/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.dll
+C:/Users/Carolien/source/repos/Newtonsoft test/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.csprojAssemblyReference.cache
+C:/Users/Carolien/source/repos/Newtonsoft test/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.csproj.CoreCompileInputs.cache
+C:/Users/Carolien/source/repos/Newtonsoft test/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.AssemblyInfoInputs.cache
+C:/Users/Carolien/source/repos/Newtonsoft test/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.AssemblyInfo.cs
+C:/Users/Carolien/source/repos/Newtonsoft test/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.pdb
+C:/Users/Carolien/source/repos/Newtonsoft test/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.dll
+C:/Users/Carolien/source/repos/Newtonsoft test/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.pdb
+C:/Users/Carolien/Documents/GitLab/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.deps.json
+C:/Users/Carolien/Documents/GitLab/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.runtimeconfig.json
+C:/Users/Carolien/Documents/GitLab/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.runtimeconfig.dev.json
+C:/Users/Carolien/Documents/GitLab/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.dll
+C:/Users/Carolien/Documents/GitLab/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.pdb
+C:/Users/Carolien/Documents/GitLab/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.csprojAssemblyReference.cache
+C:/Users/Carolien/Documents/GitLab/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.csproj.CoreCompileInputs.cache
+C:/Users/Carolien/Documents/GitLab/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.AssemblyInfoInputs.cache
+C:/Users/Carolien/Documents/GitLab/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.AssemblyInfo.cs
+C:/Users/Carolien/Documents/GitLab/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.dll
+C:/Users/Carolien/Documents/GitLab/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.pdb
+C:/Users/Carolien/source/repos/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.csprojAssemblyReference.cache
+C:/Users/Carolien/source/repos/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.csproj.CoreCompileInputs.cache
+C:/Users/Carolien/source/repos/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.AssemblyInfoInputs.cache
+C:/Users/Carolien/source/repos/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.AssemblyInfo.cs
+C:/Users/Carolien/source/repos/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.dll
+C:/Users/Carolien/source/repos/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.pdb
+C:/Users/Carolien/source/repos/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.deps.json
+C:/Users/Carolien/source/repos/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.runtimeconfig.json
+C:/Users/Carolien/source/repos/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.runtimeconfig.dev.json
+C:/Users/Carolien/source/repos/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.dll
+C:/Users/Carolien/source/repos/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.pdb
+/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.deps.json
+/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.runtimeconfig.json
+/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.runtimeconfig.dev.json
+/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.dll
+/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/bin/Debug/netcoreapp2.2/Newtonsoft test.pdb
+/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.csprojAssemblyReference.cache
+/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.csproj.CoreCompileInputs.cache
+/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.AssemblyInfoInputs.cache
+/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.AssemblyInfo.cs
+/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.dll
+/Users/marijngoossens/Soulmade/Private/GIT/newtonsofttest/Newtonsoft test/obj/Debug/netcoreapp2.2/Newtonsoft test.pdb

@@ -15,44 +15,49 @@ namespace Newtonsoft_test
     {
         public static void Main()
         {
-            using (StreamReader sr = new StreamReader(@"\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\food.json"))
+            string DesktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            List<Item> MyList = new List<Item>();
+
+
+            using (StreamReader sr = new StreamReader(DesktopPath + "/food.json"))
             {
                 var json = sr.ReadToEnd();
-                var itemtest = JsonConvert.DeserializeObject<List<Item>>(json);
-                foreach (var item in itemtest)
+                MyList = JsonConvert.DeserializeObject<List<Item>>(json);
+                foreach (var item in MyList)
                 {
                     Console.WriteLine("Name : " + item.Name + "\tAmount : " + item.Amount);
                 }
             }
-            //List<Item> items = new List<Item>();
+           
             while (true)
             {
                 Console.WriteLine("Add an item or press q to exit");
+                Item NewItem = new Item();
 
-                string answer = Console.ReadLine();
-                if (answer == "q")
+                NewItem.Name = Console.ReadLine();
+                if (NewItem.Name == "q")
                 {
                     break;
                 }
                 else
                 {
                     Console.WriteLine("Add amount:");
+                    
                     string input = Console.ReadLine();
-                    int result = int.Parse(input);
-                    List<Item> listItems = new List<Item> {
-                         new Item { Name = answer, Amount = result}
-                };
+                    NewItem.Amount = int.Parse(input);
+                    MyList.Add(NewItem);
+
+                }
 
 
-                    using (StreamWriter sw = new StreamWriter(@"\Users\Carolien\source\repos\newtonsofttest\Newtonsoft test\food.json"))
+                    using (StreamWriter sw = new StreamWriter(DesktopPath + "/food.json"))
 
                     {
-                        var collectionResult = JsonConvert.SerializeObject(listItems);
-
-                        sw.WriteLine(collectionResult);
-                    }
+                        var collectionResult = JsonConvert.SerializeObject(MyList);
+                       sw.WriteLine(collectionResult);
+                    Console.WriteLine("Saved Succesfully");
+                        }
                 }
             }
         }
     }
-}
